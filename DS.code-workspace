@@ -1,11 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "../LibrariesforDS"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../LibrariesforDS"
+        },
+        {
+            "path": "."
+        }
+    ]
 }
